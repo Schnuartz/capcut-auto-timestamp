@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(for proj:*)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}

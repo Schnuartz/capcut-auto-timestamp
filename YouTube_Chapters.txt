@@ -1,0 +1,15 @@
+Timecodes:
+00:00:00 - Einleitung
+00:00:00 - Marker 24
+00:00:24 - Gebühren
+00:01:33 - Gebührenvergleich mit Bitrefill
+00:02:18 - Konto Erstellung
+00:04:21 - Abo bezahlen
+00:05:32 - Freedomia Karte ausstellen
+00:07:25 - Karte mit Handy verbinden
+00:09:02 - Tipp bei Problemen
+00:11:16 - BTC angekommen
+00:12:08 - Schluss
+
+Linked videos:
+00:05:02 - Alby einblenden
